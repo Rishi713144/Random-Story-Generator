@@ -30,7 +30,9 @@ Welcome to the **Random Story Generator**! This project is a fun and interactive
 - Modify the prompts to include different types of words or phrases.
 - Enhance with a graphical interface or web version.
 
-## Contributing
+## License
+
+[MIT License](LICENSE)
 
 Contributions are welcome! If you have ideas for new features, templates, or improvements, feel free to open an issue or submit a pull request.
 
